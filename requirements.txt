@@ -1,0 +1,16 @@
+# Core data tools
+numpy
+pandas
+
+# Plotting / visualization
+matplotlib
+seaborn
+
+# Machine learning (the star of the show)
+scikit-learn
+
+# Real market data for the finance projects (#2 and #3)
+yfinance
+
+# Notebook environment we run everything in
+jupyterlab
